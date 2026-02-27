@@ -73,4 +73,4 @@ This table reports the forward stepwise CoxPH results.
 
 ---
 ### Notes
-- You can easily obtained from an open R package.
+- You can easily obtain datasets from an open R package.
