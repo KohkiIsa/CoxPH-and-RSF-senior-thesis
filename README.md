@@ -1,4 +1,4 @@
-# R-portfolio
+# senior thesis
 
 ## Overview
 Rのsurvivalパッケージに存在する「北中部癌治療グループによる進行肺癌患者の生存データ」を用いてK-M曲線/Cox比例ハザード解析 / Random Survival Forest をまとめたポートフォリオです。
