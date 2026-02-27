@@ -73,5 +73,4 @@ This table reports the forward stepwise CoxPH results.
 
 ---
 ### Notes
-- The dataset itself is not included in this repository.
-- To run the code, please prepare the data in your own environment (e.g., RStudio / Google Colab) and update file paths accordingly.
+- You can easily obtained from an open R package.
