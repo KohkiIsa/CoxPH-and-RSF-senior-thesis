@@ -1,4 +1,4 @@
-# CoxPH and Random Survival Forest (RSF) — Senior Thesis Portfolio
+# CoxPH and Random Survival Forest (RSF) — Senior Thesis
 
 ## Overview
 This repository summarizes my undergraduate thesis on survival prediction using a lung cancer dataset.
